@@ -1,5 +1,9 @@
 # Ghosting Isn’t Random: What Data Science Says About Group Projects
 
+<p align="center">
+  <img src="ghost_image.png" alt="A ghost illustration" width="400">
+</p>
+
 If you have ever worked on a group project, you probably recognize this moment: the deadline is approaching, messages are flying in the group chat, and one person has gone completely silent. No replies. No commits. No explanation. Just gone.
 
 “Ghosting” is a term usually reserved for dating apps, but it fits surprisingly well in academic group work. A teammate disengages without warning, leaving others to pick up the slack. While this experience is frustrating, it raises an interesting question from a data science perspective: is ghosting truly random, or are there detectable patterns that show up before someone disappears?
