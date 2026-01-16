@@ -1,8 +1,9 @@
 # Ghosting Isn’t Random: What Data Science Says About Group Projects
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="ghost_image.png" alt="A ghost illustration" width="400">
-</p>
+  <figcaption><strong>Figure:</strong> A stylized illustration representing “ghosting” in group projects.</figcaption>
+</figure>
 
 If you have ever worked on a group project, you probably recognize this moment: the deadline is approaching, messages are flying in the group chat, and one person has gone completely silent. No replies. No commits. No explanation. Just gone.
 
