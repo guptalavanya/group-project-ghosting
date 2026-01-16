@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <figure>
-    <img src="ghost.png" alt="A ghost illustration" width="400">
+    <img src="ghost_image.png" alt="A ghost illustration" width="400">
     <figcaption><strong>Figure:</strong> A stylized illustration representing “ghosting” in group projects.</figcaption>
   </figure>
 </div>
